@@ -3,7 +3,7 @@ link: https://github.com/nkuclassical
 author: Yanqiao Zhan
 email: zhanyanqiao@126.com
 github: nkuclassical
-
+twitter: YanqiaoZhan
 markdown: redcarpet
 redcarpet:
   extensions: ["autolink", "tables", "strikethrough", "with_toc_data"]
